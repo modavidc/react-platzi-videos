@@ -1,0 +1,10 @@
+$body-color: red;
+$text-color: gray;
+
+body {
+  margin: 0;
+  background-color: $body-color;
+}
+h1, p {
+  color: $text-color;
+}
